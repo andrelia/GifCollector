@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<style>
+h1{background-color:Aqua;}
+h1{color:firebrick;}
+h1{border-style:groove;}
+h1{border-color:black;}
+body{background-color:Black;}
+body{animation:colorchange 5s infinite alternate;}
+@-webkit-keyframes colorchange {0% {color: blue;}10% {color: #8e44ad;}20%{color: #1abc9c;}30% {color: #d35400;}40% {color: blue;}50% {color: #34495e;}60% {color: blue;}70% {color: #2980b9;}80% {color: darkyellow;}90% {color: #2980b9;}100% {color: purple;font-size 25px}}
+h2{font-size:17.5px}
+h2{background-color:gold;}
+h2{border-size:10px;}
+h2{border-color:Black;}
+h2{border-style:solid;}
+h2{color:firebrick;}
+body{color:firebrick;}
+body{<font face="Comic Sans MS"></font>;}
+body{font-size=30px;}
+h10{font-size=50px;}
+h4{font-size:50px;}
+h4{animation:colorchange 3s infinite alternate;}
+@-webkit-keyframes colorchange {100% {color: blue;}90% {color: #8e44ad;}80%{color: #1abc9c;}70% {color: #d35400;}60% {color: blue;}50% {color: #34495e;}40% {color: blue;}30% {color: #2980b9;}20% {color: darkyellow;}10% {color: #2980b9;}0% {color: purple;font-size 25px}}
+
+</style>
+<body>
+<h1> <center> <font face="Comic Sans MS"> GIFS </center></h1>
+<h2>
+<font face="Comic Sans MS"></font>Before watching Gifs a good thing to do is no what they are:<div>
+A Gif is a lossless format for image files that supports both animated and static images.
+</h2>
+<h4>
+Cat Gifs
+</h4>
+<h3>
+Typing Cat
+</h3>
+<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="360" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S"></a></p>
+<h3>
+Sleepy Cat
+</h3>
+<iframe src="https://giphy.com/embed/6uMqzcbWRhoT6" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-animal-kitten-6uMqzcbWRhoT6"></a></p>
+<h3>
+Flying Cat<div>
+</h3>
+<iframe src="https://giphy.com/embed/VxbvpfaTTo3le" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitten-kitty-VxbvpfaTTo3le"></a></p>
+</body>
+</html>
